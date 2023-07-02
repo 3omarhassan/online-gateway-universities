@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676060917273",
+    "project_id": "gateway-university",
+    "storage_bucket": "gateway-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676060917273:android:fc4cf3846bc03279f4c488",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676060917273-b9iluni5qk14p6iluhfl69rvgqe5d0gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQUFpY03t93l5R5gK98lmPhxKfJJT1eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676060917273-b9iluni5qk14p6iluhfl69rvgqe5d0gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
